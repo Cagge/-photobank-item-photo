@@ -1,0 +1,11 @@
+http:
+  greeting:
+    port: true
+resize:
+  outSize: [140, 280, 400, 700, 1600]
+  pathSavePhoto: ""
+photodate:
+  user: ""
+  pass: ""
+  baseURLlisting: ""
+  urlDownload: ""
